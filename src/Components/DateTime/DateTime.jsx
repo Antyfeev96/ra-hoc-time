@@ -9,5 +9,5 @@ export default function DateTime(props) {
 }
 
 DateTime.propTypes = {
-
+  date: PropTypes.string.isRequired
 }
